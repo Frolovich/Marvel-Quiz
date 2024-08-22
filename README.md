@@ -1,0 +1,2 @@
+Marvel Quiz est un projet de quiz interactif développé en React, avec un back-end qui utilise une API pour la gestion des questions et Firebase pour l'authentification des utilisateurs et le stockage des données. Ce projet permet aux utilisateurs de tester leurs connaissances sur l'univers Marvel grâce à une interface moderne, intuitive et réactive.
+Le lien du projet : https://marvel-quiz-483bd.firebaseapp.com/
